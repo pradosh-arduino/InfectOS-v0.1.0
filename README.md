@@ -1,6 +1,10 @@
 # InfectOS-v0.1.0
  this is and ARM based OS.
 # Setup
+make a folder named: `ARM_Root`
+
+then follow these steps to build the OS:
+
 build the OS's kernel just type: `make all`
 
 make kernel image: `make image`
