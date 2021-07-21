@@ -15,4 +15,4 @@ clean unwanted binary .o files: `make clean`
 
 clean .o, .elf, .bin, .data: `make deep-clean`
 
-realmachine bootable: `real-boot`
+realmachine bootable: `make real-boot`
